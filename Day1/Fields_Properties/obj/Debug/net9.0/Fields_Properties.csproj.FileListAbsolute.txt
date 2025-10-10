@@ -1,0 +1,14 @@
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\bin\Debug\net9.0\Fields_Properties.exe
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\bin\Debug\net9.0\Fields_Properties.deps.json
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\bin\Debug\net9.0\Fields_Properties.runtimeconfig.json
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\bin\Debug\net9.0\Fields_Properties.dll
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\bin\Debug\net9.0\Fields_Properties.pdb
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\obj\Debug\net9.0\Fields_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\obj\Debug\net9.0\Fields_Properties.AssemblyInfoInputs.cache
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\obj\Debug\net9.0\Fields_Properties.AssemblyInfo.cs
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\obj\Debug\net9.0\Fields_Properties.csproj.CoreCompileInputs.cache
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\obj\Debug\net9.0\Fields_Properties.dll
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\obj\Debug\net9.0\refint\Fields_Properties.dll
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\obj\Debug\net9.0\Fields_Properties.pdb
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\obj\Debug\net9.0\Fields_Properties.genruntimeconfig.cache
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Fields_Properties\obj\Debug\net9.0\ref\Fields_Properties.dll

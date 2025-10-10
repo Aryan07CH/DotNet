@@ -1,0 +1,14 @@
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\bin\Debug\net9.0\Day1_Bacis.exe
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\bin\Debug\net9.0\Day1_Bacis.deps.json
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\bin\Debug\net9.0\Day1_Bacis.runtimeconfig.json
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\bin\Debug\net9.0\Day1_Bacis.dll
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\bin\Debug\net9.0\Day1_Bacis.pdb
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\obj\Debug\net9.0\Day1_Bacis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\obj\Debug\net9.0\Day1_Bacis.AssemblyInfoInputs.cache
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\obj\Debug\net9.0\Day1_Bacis.AssemblyInfo.cs
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\obj\Debug\net9.0\Day1_Bacis.csproj.CoreCompileInputs.cache
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\obj\Debug\net9.0\Day1_Bacis.dll
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\obj\Debug\net9.0\refint\Day1_Bacis.dll
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\obj\Debug\net9.0\Day1_Bacis.pdb
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\obj\Debug\net9.0\Day1_Bacis.genruntimeconfig.cache
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_1 4-10-25\Day1\Day1\obj\Debug\net9.0\ref\Day1_Bacis.dll
