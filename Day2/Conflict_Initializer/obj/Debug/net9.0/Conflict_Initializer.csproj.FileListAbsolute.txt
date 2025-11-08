@@ -1,0 +1,14 @@
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\bin\Debug\net9.0\Conflict_Initializer.exe
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\bin\Debug\net9.0\Conflict_Initializer.deps.json
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\bin\Debug\net9.0\Conflict_Initializer.runtimeconfig.json
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\bin\Debug\net9.0\Conflict_Initializer.dll
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\bin\Debug\net9.0\Conflict_Initializer.pdb
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\obj\Debug\net9.0\Conflict_Initializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\obj\Debug\net9.0\Conflict_Initializer.AssemblyInfoInputs.cache
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\obj\Debug\net9.0\Conflict_Initializer.AssemblyInfo.cs
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\obj\Debug\net9.0\Conflict_Initializer.csproj.CoreCompileInputs.cache
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\obj\Debug\net9.0\Conflict_Initializer.dll
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\obj\Debug\net9.0\refint\Conflict_Initializer.dll
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\obj\Debug\net9.0\Conflict_Initializer.pdb
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\obj\Debug\net9.0\Conflict_Initializer.genruntimeconfig.cache
+C:\Users\aryan\Desktop\CDAC\DotNET\Day_2 - 5-10-25\Day2\Conflict_Initializer\obj\Debug\net9.0\ref\Conflict_Initializer.dll
